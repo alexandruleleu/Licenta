@@ -1,0 +1,11 @@
+export default class DropdownServices {
+    static dropDown;
+
+    static setDropDown(dropDown) {
+        this.dropDown = dropDown;
+    }
+
+    static getDropDown() {
+        return this.dropDown;
+    }
+}

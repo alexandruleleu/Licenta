@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323123353208",
+    "firebase_url": "https://barbersapp-25712.firebaseio.com",
+    "project_id": "barbersapp-25712",
+    "storage_bucket": "barbersapp-25712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323123353208:android:45abc2998bc3afbe",
+        "android_client_info": {
+          "package_name": "com.barbersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323123353208-bh1vvcvdbv3v3ajkejejla7748696gpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4RfKruUzP9yFu90Yw4lyLgEk0pTFBCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323123353208-bh1vvcvdbv3v3ajkejejla7748696gpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
